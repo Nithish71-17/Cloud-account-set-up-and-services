@@ -1,86 +1,88 @@
+## EX NO: 1 Cloud-account-set-up-and-services
+### Name: NITHISH
 
-# EX NO - 1: Cloud-account-set-up-and-services
-~~~
-# Aim:
-To create an cloud account in AWS and to explore all of its services.
+### Reg no: 212223043004
 
-# Procedure
-# Step 1: Go to the AWS Website
-• Visit https://aws.amazon.com
+## AIM
+To create a cloud account in Microsoft Azure and to explore all of its services.
 
-• Click “Create an AWS Account” in the top right corner.
+## Procedure
+## Step 1: Go to the Azure Website
+Visit https://azure.microsoft.com
 
-# Step 2: Enter Account Information
-• Email address – Use a valid email you have access to.
+Click on "Free Account" in the top-right corner.
 
-• Password – Create a strong password.
+## Step 2: Sign in or Create a Microsoft Account
+If you already have a Microsoft account (Outlook/Hotmail), sign in.
 
-• AWS account name – This is the name you want to associate with your AWS account (e.g., your name or company name).
+Otherwise, create a new Microsoft account with your email ID and password.
 
-# Step 3: Choose Account Type
-• Personal or Professional – Select based on how you plan to use AWS.
+## Step 3: Enter Account Information
+Provide your details: Name, Country/Region, Phone Number.
 
-• Fill in your contact information (name, address, phone number).
+Verify your phone number through SMS/Call verification.
 
-# Step 4: Enter Payment Information
-• Provide credit/debit card details.
+## Step 4: Identity Verification
+Provide credit/debit card details for identity verification.
 
-Note: You won’t be charged immediately. AWS offers a Free Tier, but entering card details is mandatory.
+Note: You won’t be charged immediately.
 
-# Step 5: Verify Your Identity
-• Enter your phone number.
+Microsoft Azure offers Free Credits (e.g., $200 for 30 days) and 12 months of free services.
 
-• AWS will send a verification code via call or text.
+## Step 5: Accept Agreement
+Review Microsoft Azure Agreement and Privacy Statement.
 
-• Enter the code to confirm your identity.
+Click Sign Up to complete registration.
 
-# Step 6: Choose a Support Plan
-Choose one of the following:
-• Basic Support (Free)
+## Step 6: Access Azure Portal
+Go to https://portal.azure.com .
 
-• Developer Support
+Sign in with your Microsoft credentials.
 
-• Business Support
+This opens the Azure Management Portal (Dashboard).
 
-• Enterprise Support
+Secure Your Azure Account
+1. Enable Multi-Factor Authentication (MFA):
+Go to Azure Active Directory (Azure AD) → Security → MFA.
 
-For most beginners, select Basic Support.
+Register your phone/email for extra protection.
 
-# Step 7: Complete the Sign-Up
-• After reviewing all the details, click "Sign Up".
+2. Create a User with Administrative Access (instead of using root/global admin):
+Navigate to Azure Active Directory → Users.
 
-• You’ll receive a confirmation email once your account is activated (usually within a few minutes).
+Click + New User and provide user details.
 
-# Step 8: Sign In to AWS Console
-• Go to https://console.aws.amazon.com
+Assign Global Administrator or Owner role to this user.
 
-• Log in using your email and password to start using AWS services.
+3. Sign in as the New User:
+Use the invitation email sent to the new user.
 
+Sign in with their credentials for daily administration.
 
-# Create a user with administrative access
-After you sign up for an AWS account, secure your AWS account root user, enable AWS IAM Identity Center, and create an administrative user so that you don't use the root user for everyday tasks.
+Services Overview in Azure
 
+Once logged in, explore the various services available on the Azure portal:
 
-# Secure your AWS account root user
-Sign in to the AWS Management Console (https://console.aws.amazon.com) as the account owner by choosing Root user and entering your AWS account email address. On the next page, enter your password.
-Turn on multi-factor authentication (MFA) for your root user.
+Compute: Virtual Machines, Azure Functions, App Services.
 
-# Create user with administrative access
-Enable IAM Identity Center.
-In IAM Identity Center, grant administrative access to a user.
+Networking: Virtual Networks, Load Balancers, VPN Gateway.
 
-# Sign in as the user with administrative access
-To sign in with your IAM Identity Center user, use the sign-in URL that was sent to your email address when you created the IAM Identity Center user.
+Storage: Blob Storage, Disk Storage, File Shares.
 
+Databases: Azure SQL Database, Cosmos DB, MySQL, PostgreSQL.
 
-# Services Overview:
-• Explore all the available services in AWS platform.
-# Output:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bce4bb5-2a20-48e0-9d90-552f5fef9548" />
+AI & Machine Learning: Cognitive Services, Azure ML.
 
+Security: Azure Active Directory, Key Vault, Security Center.
 
+DevOps & Tools: Azure DevOps, GitHub Actions integration.
 
-# Result:
-Thus an account was created in AWS platform and all the services were explored.
+IoT & Analytics: IoT Hub, Event Hubs, Stream Analytics, Power BI.
 
+## Output:
+(Insert screenshots of your Azure portal dashboard and services explored here) 
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/3f4d2d2c-8782-4859-9992-80a5c91c6116" />
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/bc977ecc-c486-430f-a1cb-1039cdae7656" />
 
+## Result:
+Thus, an account was created in Microsoft Azure platform and all the services were successfully explored.
