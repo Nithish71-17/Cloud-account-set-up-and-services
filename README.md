@@ -1,10 +1,6 @@
 
 # EX NO - 1: Cloud-account-set-up-and-services
 ~~~
-Name: A.Jayachandran
-
-Reg no: 212225230112
-~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
 
